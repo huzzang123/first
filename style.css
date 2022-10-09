@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    background-size: cover;
+}
+
+.hidden {
+    display: none;
+}
+
+.js-toDoForm {
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+   
+  input {
+    font-size: 30px;
+  }
+   
+  .js-toDoList {
+    margin-left: 50px;
+    color: gray;
+    font-size: 26px;
+  }
